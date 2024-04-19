@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a33bbbe4-9d7d-4926-964a-d3669e6d9083" name="Changes" comment="Adicionar novas anotações para melhor compreensão de conteúdo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nicolemorais&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nicolemorais/python-ai-backend-developer.git&quot;,
+    &quot;accountId&quot;: &quot;17093749-d3e6-4bc3-abcd-8978a4516669&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eyJwFhtNXYN9obwjDC0rusS22E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.00_declarando_conjuntos.executor": "Run",
+    "Python.00_declarando_listas.executor": "Run",
+    "Python.00_declarando_tuplas.executor": "Run",
+    "Python.01_acessando_dados.executor": "Run",
+    "Python.01_construtores_destrutores.executor": "Run",
+    "Python.02_iterar_conjuntos.executor": "Run",
+    "Python.03_matriz.executor": "Run",
+    "Python.03_union.executor": "Debug",
+    "Python.04_intersection.executor": "Run",
+    "Python.05_difference.executor": "Run",
+    "Python.05_fatiamento.executor": "Run",
+    "Python.05_iterar_listas.executor": "Run",
+    "Python.06_compreensao_de_listas.executor": "Run",
+    "Python.06_iterar_tuplas.executor": "Run",
+    "Python.06_symmetric_difference.executor": "Run",
+    "Python.07_append.executor": "Run",
+    "Python.08_issuperset.executor": "Run",
+    "Python.09_isdisjoint.executor": "Run",
+    "Python.09_len.executor": "Run",
+    "Python.10_add.executor": "Run",
+    "Python.10_count.executor": "Run",
+    "Python.11_extend.executor": "Run",
+    "Python.11_index.executor": "Run",
+    "Python.13_discard.executor": "Run",
+    "Python.13_pop.executor": "Run",
+    "Python.14_remove.executor": "Run",
+    "Python.convertendo_tipos.executor": "Run",
+    "Python.desafio.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/nicol/Development/Back-End/python-ai-backend-developer/01 - Estrutura de dados/02 - Tuplas/06_iterar_tuplas.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nicol\Development\Back-End\python-ai-backend-developer" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33bbbe4-9d7d-4926-964a-d3669e6d9083" name="Changes" comment="" />
+      <created>1712871120924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712871120924</updated>
+      <workItem from="1712871121908" duration="267000" />
+      <workItem from="1713454626407" duration="2013000" />
+      <workItem from="1713456661844" duration="241000" />
+      <workItem from="1713456909074" duration="7097000" />
+      <workItem from="1713521341166" duration="585000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1712871342084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712871342084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adicionar novas anotações para melhor compreensão de conteúdo">
+      <option name="closed" value="true" />
+      <created>1713521583166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713521583166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Adicionar novas anotações para melhor compreensão de conteúdo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar novas anotações para melhor compreensão de conteúdo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$13_discard.coverage" NAME="13_discard Coverage Results" MODIFIED="1713468778814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$05_iterar_listas.coverage" NAME="05_iterar_listas Coverage Results" MODIFIED="1713457540410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$convertendo_tipos.coverage" NAME="convertendo_tipos Coverage Results" MODIFIED="1712871224852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00 - Fundamentos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$desafio.coverage" NAME="desafio Coverage Results" MODIFIED="1712871246016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$03_union.coverage" NAME="03_union Coverage Results" MODIFIED="1713467597440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$05_difference.coverage" NAME="05_difference Coverage Results" MODIFIED="1713467736855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$11_extend.coverage" NAME="11_extend Coverage Results" MODIFIED="1713464400111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$06_compreensao_de_listas.coverage" NAME="06_compreensao_de_listas Coverage Results" MODIFIED="1713465158324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$01_acessando_dados.coverage" NAME="01_acessando_dados Coverage Results" MODIFIED="1713467394490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$11_index.coverage" NAME="11_index Coverage Results" MODIFIED="1713466265781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$06_iterar_tuplas.coverage" NAME="06_iterar_tuplas Coverage Results" MODIFIED="1713457491743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$06_symmetric_difference.coverage" NAME="06_symmetric_difference Coverage Results" MODIFIED="1713467828710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$14_remove.coverage" NAME="14_remove Coverage Results" MODIFIED="1713464735422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$07_append.coverage" NAME="07_append Coverage Results" MODIFIED="1713457513223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$09_isdisjoint.coverage" NAME="09_isdisjoint Coverage Results" MODIFIED="1713468475231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$10_count.coverage" NAME="10_count Coverage Results" MODIFIED="1713466312994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$00_declarando_conjuntos.coverage" NAME="00_declarando_conjuntos Coverage Results" MODIFIED="1713466886380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$01_construtores_destrutores.coverage" NAME="01_construtores_destrutores Coverage Results" MODIFIED="1713454654609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 - Programação Orientada a Objetos/03 - Construtores e destrutores" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$02_iterar_conjuntos.coverage" NAME="02_iterar_conjuntos Coverage Results" MODIFIED="1713467401752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$10_add.coverage" NAME="10_add Coverage Results" MODIFIED="1713468631700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$00_declarando_tuplas.coverage" NAME="00_declarando_tuplas Coverage Results" MODIFIED="1713465413628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$00_declarando_listas.coverage" NAME="00_declarando_listas Coverage Results" MODIFIED="1713454890335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$05_fatiamento.coverage" NAME="06_iterar_tuplas Coverage Results" MODIFIED="1713456895576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$03_matriz.coverage" NAME="03_matriz Coverage Results" MODIFIED="1713455724757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$08_issuperset.coverage" NAME="08_issuperset Coverage Results" MODIFIED="1713468326863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$13_pop.coverage" NAME="13_pop Coverage Results" MODIFIED="1713464501216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/01 - Listas" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$04_intersection.coverage" NAME="04_intersection Coverage Results" MODIFIED="1713467672513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/03 - Conjuntos" />
+    <SUITE FILE_PATH="coverage/python_ai_backend_developer$09_len.coverage" NAME="09_len Coverage Results" MODIFIED="1713466365469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 - Estrutura de dados/02 - Tuplas" />
+  </component>
+</project>
