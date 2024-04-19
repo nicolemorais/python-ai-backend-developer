@@ -1,3 +1,6 @@
+# Com add podemos passar um elemento e se ele não existir, ele é adicionado
+# Mas caso esse elemento já exista, a adição dele vai ser ignorada
+
 sorteio = {1, 23}
 
 sorteio.add(25)  # {1, 23, 25}

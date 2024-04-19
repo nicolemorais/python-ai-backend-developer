@@ -1,3 +1,8 @@
+"""
+Tuplas são estruturas imutáveis e isso que a difere de listas.
+Podemos criar tuplas através da classe tuple, ou colocando valores separados por vírgula entre parenteses.
+"""
+
 frutas = (
     "laranja",
     "pera",

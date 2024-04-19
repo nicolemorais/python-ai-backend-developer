@@ -1,3 +1,5 @@
+# Parte dos dois conjuntos que possuem um mesmo valor
+
 conjunto_a = {1, 2, 3}
 conjunto_b = {2, 3, 4}
 
