@@ -1,3 +1,9 @@
+"""
+- Podemos combinar parâmetros obrigatórios com agrs e kwargs
+- Quando esses são definidos (*args e **kwargs), o método recebe os valores como tupla e dicionário respectivamente
+"""
+
+
 def exibir_poema(data_extenso, *args, **kwargs):
     texto = "\n".join(args)
     meta_dados = "\n".join([f"{chave.title()}: {valor}" for chave, valor in kwargs.items()])
@@ -6,6 +12,7 @@ def exibir_poema(data_extenso, *args, **kwargs):
 
 
 exibir_poema(
+    "Sexta-feira, 24 de Abril de 2024\n"
     "Zen of Python",
     "Beautiful is better than ugly.",
     "Explicit is better than implicit.",
@@ -29,3 +36,19 @@ exibir_poema(
     autor="Tim Peters",
     ano=1999,
 )
+
+# Exemplo complementar
+
+print("\n\nExemplo 2")
+
+
+def cardapio_pizza(tamanho, *recheios, **detalhes):
+    print(f"\nPediu uma pizza {tamanho} com os seguintes recheios: ")
+    for recheio in recheios:
+        print(f"- {recheio}")
+    print("\nOs detalhes do pedido são:")
+    for key, value in detalhes.items():
+        print(f"- {key}: {value}")
+
+
+cardapio_pizza('grande', 'frango com catupiry', 'calabresa', entrega=True, gorjeta=5)

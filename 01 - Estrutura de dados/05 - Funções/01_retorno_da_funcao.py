@@ -1,3 +1,9 @@
+"""
+- Para retornar um valor, utilizamos a palavra reservada return
+- Toda função Python retorna None por padrão
+- Em Python uma função pode retornar mais de um valor
+"""
+
 def calcular_total(numeros):
     return sum(numeros)
 

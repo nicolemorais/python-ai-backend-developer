@@ -1,3 +1,6 @@
+"""
+- Funções também podem ser chamadas usando argumentos nomeados da forma chave=valor
+"""
 def salvar_carro(marca, modelo, ano, placa):
     # salva carro no banco de dados...
     print(f"Carro inserido com sucesso! {marca}/{modelo}/{ano}/{placa}")

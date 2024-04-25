@@ -1,3 +1,7 @@
+"""
+Acessando valores percorrendo os dados com o comando for
+"""
+
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
@@ -10,5 +14,6 @@ for chave in contatos:
 
 print("=" * 100)
 
+# Forma mais declarativa e legível
 for chave, valor in contatos.items():
     print(chave, valor)
