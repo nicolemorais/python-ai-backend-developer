@@ -22,13 +22,15 @@ class Gato(Mamifero):
     pass
 
 
-class Ornitorrinco(Mamifero, Ave):
-    def __init__(self, cor_bico, cor_pelo, nro_patas):
-        super().__init__(cor_pelo=cor_pelo, cor_bico=cor_bico, nro_patas=nro_patas)
+class Ornitorrinco(Mamifero, Ave):  # Herança múltipla
+    def __init__(self, nro_patas, cor_pelo, cor_bico):
+        super().__init__(nro_patas=nro_patas, cor_pelo=cor_pelo, cor_bico=cor_bico)
 
 
 gato = Gato(nro_patas=4, cor_pelo="Preto")
 print(gato)
 
-ornitorrinco = Ornitorrinco(nro_patas=2, cor_pelo="vermelho", cor_bico="laranja")
+ornitorrinco = Ornitorrinco(nro_patas=2, cor_pelo="Verde", cor_bico="Laranja")
 print(ornitorrinco)
+
+
