@@ -17,7 +17,7 @@ class Avestruz(Passaro):
 class Aviao(Passaro):
     def voar(self):
         print("Avião está decolando...")
-
+# -----------------------------------------------------------------
 
 def plano_voo(obj):
     obj.voar()
