@@ -5,3 +5,5 @@ def meu_gerador(numeros: list[int]):
 
 for i in meu_gerador(numeros=[1, 2, 3,]):
     print(i)
+
+
