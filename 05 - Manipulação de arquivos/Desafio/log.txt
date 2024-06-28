@@ -1,0 +1,3 @@
+[28-06-2024 19:50:18] Function 'new_customer' executed with arguments ([<Person: ('1')>],) and {}. Returned None
+[28-06-2024 19:51:13] Function 'new_account' executed with arguments (1, [<Person: ('1')>], [<CurrentAccount: ('0001', '1','Nicole')>]) and {}. Returned None
+[28-06-2024 19:51:31] Function 'deposit' executed with arguments ([<Person: ('1')>],) and {}. Returned None
